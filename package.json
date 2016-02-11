@@ -1,0 +1,78 @@
+{
+  "_args": [
+    [
+      "react-native-tableview-simple@0.3.2",
+      "/Users/vincetam/Desktop/Code/trybe-mvp"
+    ]
+  ],
+  "_from": "react-native-tableview-simple@0.3.2",
+  "_id": "react-native-tableview-simple@0.3.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-tableview-simple",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "email": "blackout289@gmail.com",
+    "name": "purii"
+  },
+  "_npmVersion": "3.3.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-tableview-simple",
+    "raw": "react-native-tableview-simple@0.3.2",
+    "rawSpec": "0.3.2",
+    "scope": null,
+    "spec": "0.3.2",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-tableview-simple/-/react-native-tableview-simple-0.3.2.tgz",
+  "_shasum": "bc3606177ad43eeed7453c4b26ce49ddeee2b4bc",
+  "_shrinkwrap": null,
+  "_spec": "react-native-tableview-simple@0.3.2",
+  "_where": "/Users/vincetam/Desktop/Code/trybe-mvp",
+  "author": {
+    "name": "Patrick Puritscher"
+  },
+  "bugs": {
+    "url": "https://github.com/Purii/react-native-tableview-simple/issues"
+  },
+  "dependencies": {},
+  "description": "React Native component for TableView made with pure CSS",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "bc3606177ad43eeed7453c4b26ce49ddeee2b4bc",
+    "tarball": "http://registry.npmjs.org/react-native-tableview-simple/-/react-native-tableview-simple-0.3.2.tgz"
+  },
+  "gitHead": "8edc8432c70f0eedb09d0dbefc622aba2a42db3d",
+  "homepage": "https://github.com/Purii/react-native-tableview-simple",
+  "keywords": [
+    "ios",
+    "react-component",
+    "react-native",
+    "tableview"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "purii",
+      "email": "blackout289@gmail.com"
+    }
+  ],
+  "name": "react-native-tableview-simple",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.13 || 0.14.0-rc"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Purii/react-native-tableview-simple.git"
+  },
+  "scripts": {},
+  "version": "0.3.2"
+}
