@@ -11,9 +11,9 @@ export default class CustomCell extends Component {
 
 		/* Set styles */
     if(this.props.customHeight){
-      const styleCell = [...{}, styles.cell, {backgroundColor: cellTintColor, height: this.props.customHeight}];
+      var styleCell = [...{}, styles.cell, {backgroundColor: cellTintColor, height: this.props.customHeight}];
     }else{
-		  const styleCell = [...{}, styles.cell, {backgroundColor: cellTintColor}];
+		  var styleCell = [...{}, styles.cell, {backgroundColor: cellTintColor}];
     }
 
 		if(isPressable && !isDisabled) {
